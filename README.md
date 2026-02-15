@@ -9,7 +9,7 @@ Health symptom dataset from Kaggle
 Random Forest Classifier
 
 ## Results
-Accuracy: 92%
+Accuracy: 99%
 
 ## Files
 - AI_Symptom_Disease_Prediction.ipynb : training + evaluation
